@@ -1,7 +1,16 @@
 .footer{
-    background: background: rgb(2,0,36);
-    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 23%, rgba(0,212,255,1) 100%);;
+    background: rgb(251,63,209);
+background: radial-gradient(circle, rgba(251,63,209,1) 3%, rgba(252,70,107,1) 94%);
 }
 .color-enlace{
     color: white;
+}
+
+.jumbotron{
+    background-image: url("../img/OIP\ \(1\).jpg");
+    background-size: cover;
+    color: black;
+}
+hr{
+    background-color: white;
 }
